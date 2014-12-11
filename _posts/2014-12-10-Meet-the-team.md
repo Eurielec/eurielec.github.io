@@ -10,7 +10,7 @@ Hey everyone! Today we're gonna introduce part of the awesome team working in th
 
 ###Lourdes
 Hi ! I'm Lourdes Luque, this is my fourth year in Telecom. Eng. I decided to work in this project because I want to learn more about programming and I'm so excited with it! Go Team AM! :)
-![Photo of Lourdes](/photos/lourdes.jpg =400x)
+![blogphoto](/photos/lourdes.jpg)
 ###Pati
 Hi! I'm Patricia Ramos, and I'm part of FM Team. I'm in my fourth year of studies, but I still want to learn more about technology and electronics. That's why I joined this amazing project!
-![Photo of Lourdes](/photos/pati.jpg =400x)
+![blogphoto](/photos/pati.jpg)

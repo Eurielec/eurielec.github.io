@@ -258,3 +258,5 @@ sup {
   vertical-align: super;
   font-size: smaller;
 }
+
+img[alt=blogphoto] { width: 400px; }
