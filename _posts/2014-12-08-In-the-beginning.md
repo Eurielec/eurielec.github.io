@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sample post
+title: In the beginning
 categories:
 - redpitaya
 ---
