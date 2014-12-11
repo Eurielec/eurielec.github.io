@@ -5,23 +5,20 @@ categories:
 - redpitaya
 ---
 
-Hey everyone! Today we're gonna introduce part of the awesome team working in the RedPitaya project! We're all students at the Telecommunications Engineering School of the UPM and we decided that doing is the best way of learning :D
+Hey Pitayers! Madrid team here, and we are going to tell you all about our fantastic project wih RedPitaya
 
+![bloglogo](https://rsstoremanager.co.uk/Images/rs_components_logo_large.jpg) ![bloglogo](http://www.i-tech.si/en/image/original/817/red-pitaya_logo.png) 
 
-### **Lourdes**
+## What is RedPitaya?
 
-Hi ! I'm Lourdes Luque, this is my fourth year in Telecom. Eng. I decided to work in this project because I want to learn more about programming and I'm so excited with it! Go *Team AM!* :)
+RedPitaya is an open-source measurment and control tool which already replaces many laboratory instruments and has the potential to replace many more.
 
-![blogphoto](/photos/lourdes.jpg)
+## What is your project?
 
-### **Pati**
+Our team is developing an AM/FM modulator for RedPitaya, a real signal (audio for example) comes through the analog input and then through the GUI you select the carrier frequency and you visualize how the signal is modulated.
 
-Hi! I'm Patricia Ramos, and I'm part of *Team FM*. I'm in my fourth year of studies, but I still want to learn more about technology and electronics. That's why I joined this amazing project!
+## Why are you doing it?
 
-![blogphoto](/photos/pati.jpg)
-
-### **Javier**
-
-Hey! I'm Javier Soler, 5th year student of Telecommunication Engineering, from Madrid. I love Raspberry Pi and Red Pitaya, and I want to learn a lot of new things while working on this great project for *Team FM!*
-
-![blogphoto](/photos/soler.jpg)
+*	It's fun!
+*	It's a fantastic tool for learning how modulations work
+*	We'll generate **real** modulated signals which can be transmitted like the ones you listen to on the radio!
