@@ -5,9 +5,8 @@ categories:
 - redpitaya
 ---
 
-### The beginning of a new adventure
-
-Hello world! EURIELEC/EESTEC LC MADRID here! We just opened this blog to tell you all about our new and super exciting project! We're developing for RedPitaya!
+##Hello world! EURIELEC/EESTEC LC MADRID here!
+We just opened this blog to tell you all about our new and super exciting project! We're developing for RedPitaya!
 
 ...
 
