@@ -10,16 +10,16 @@ Hey everyone! Today we're gonna introduce part of the awesome team working in th
 
 ### **Lourdes**
 
-Hi ! I'm Lourdes Luque, this is my fourth year in Telecom. Eng. I decided to work in this project because I want to learn more about programming and I'm so excited with it! Go Team AM! :)
+Hi ! I'm Lourdes Luque, this is my fourth year in Telecom. Eng. I decided to work in this project because I want to learn more about programming and I'm so excited with it! Go *Team AM!* :)
 ![blogphoto](/photos/lourdes.jpg)
 
 ### **Pati**
 
-Hi! I'm Patricia Ramos, and I'm part of FM Team. I'm in my fourth year of studies, but I still want to learn more about technology and electronics. That's why I joined this amazing project!
+Hi! I'm Patricia Ramos, and I'm part of *Team FM*. I'm in my fourth year of studies, but I still want to learn more about technology and electronics. That's why I joined this amazing project!
 ![blogphoto](/photos/pati.jpg)
 
 ### **Javier**
 
-Hey! I'm Javier Soler, 5th year student of Telecommunication Engineering, from Madrid. I love Raspberry Pi and Red Pitaya, and I want to learn a lot of new things while working on this great project for *Team FM!
+Hey! I'm Javier Soler, 5th year student of Telecommunication Engineering, from Madrid. I love Raspberry Pi and Red Pitaya, and I want to learn a lot of new things while working on this great project for *Team FM!*
 
 ![blogphoto](/photos/soler.jpg)
