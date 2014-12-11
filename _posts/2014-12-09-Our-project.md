@@ -18,6 +18,7 @@ RedPitaya is an open-source measurment and control tool which already replaces m
 Our team is developing an AM/FM modulator for RedPitaya, a real signal (audio for example) comes through the analog input and then through the GUI you select the carrier frequency and you visualize how the signal is modulated.
 
 ## Why are you doing it?
+![bloglogo](/photos/jackie.jpg) 
 
 *	It's fun!
 *	It's a fantastic tool for learning how modulations work
